@@ -1,2 +1,2 @@
 # ML code example
-Ml Code
+Machine Learning code for the enthusiasts out there
